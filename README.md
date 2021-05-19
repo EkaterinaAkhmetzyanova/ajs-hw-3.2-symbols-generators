@@ -1,0 +1,2 @@
+Домашнее задание к лекции «Символы, итераторы, генераторы». Символы и генераторы 
+[![Build status](https://ci.appveyor.com/api/projects/status/7hawt8rbkdee0ihp?svg=true)](https://ci.appveyor.com/project/EkaterinaAkhmetzyanova/ajs-hw-3-2-symbols-generators)
